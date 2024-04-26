@@ -5,4 +5,5 @@ Scenario 3: Mumbai to Chennai
 						// updated by dasthageer
 Scenario 4: Hyd to chennai
 Scenario 5: goa to chennai
+Scenario 6: user booking confirm alert
 
